@@ -16,7 +16,7 @@
 [Kopieren der Zellformatierung](https://support.microsoft.com/en-us/office/copy-cell-formatting-b9fe82ea-c0a0-41de-837b-d2f15dd41ea9)\
 [Schritte zum Erstellen eines Diagramms](https://support.microsoft.com/en-us/office/create-a-chart-from-start-to-finish-0baf399e-dd61-4e18-8a73-b3fd5d5680c2)\
 [Verfügbare Zahlenformate in Excel](https://support.microsoft.com/en-us/office/available-number-formats-in-excel-0afe8f52-97db-41f1-b972-4b46e9f1e8d2)\
-[Anzeigen oder Ausblenden von Nullwerten](https://support.microsoft.com/en-us/office/display-or-hide-zero-values-3ec7a433-46b8-4516-8085-a00e9e476b03)\
+[Anzeigen oder Ausblenden von Nullwerten](https://support.microsoft.com/en-us/office/display-or-hide-zero-values-3ec7a433-46b8-4516-8085-a00e9e476b03)
 ## Zusammenarbeiten
 [Freigeben einer Excel-Arbeitsmappe für andere Personen](https://support.microsoft.com/en-us/office/share-your-excel-workbook-with-others-8d8a52bb-03c3-4933-ab6c-330aabf1e589)\
 [Gleichzeitiges Bearbeiten von Excel-Arbeitsmappen mit der gemeinsamen Dokumenterstellung](https://support.microsoft.com/en-us/office/collaborate-on-excel-workbooks-at-the-same-time-with-co-authoring-7152aa8b-b791-414c-a3bb-3024e46fb104)\
@@ -24,8 +24,7 @@
 [Schützen einer Arbeitsmappe](https://support.microsoft.com/en-us/office/protect-a-workbook-7e365a4d-3e89-4616-84ca-1931257c1517)\
 [Schützen eines Arbeitsblatts](https://support.microsoft.com/en-us/office/protect-a-worksheet-3179efdb-1285-4d49-a9c3-f4ca36276de6)\
 [Schützen eines Dokuments mit einem Kennwort](https://support.microsoft.com/en-us/office/protect-a-document-with-a-password-05084cc3-300d-4c1a-8416-38d3e37d6826)\
-[Drucken eines Arbeitsblatts oder einer Arbeitsmappe](https://support.microsoft.com/en-us/office/print-a-worksheet-or-workbook-f4ad7962-b1d5-4eb9-a24f-0907f36c4b94)\
-
+[Drucken eines Arbeitsblatts oder einer Arbeitsmappe](https://support.microsoft.com/en-us/office/print-a-worksheet-or-workbook-f4ad7962-b1d5-4eb9-a24f-0907f36c4b94)
 ## Formeln
 [Berechnen des Unterschieds zwischen zwei Datumsangaben](https://support.microsoft.com/en-us/office/calculate-the-difference-between-two-dates-8235e7c9-b430-44ca-9425-46100a162f38)\
 [Formeln und Funktionen](https://support.microsoft.com/en-us/office/formulas-and-functions-294d9486-b332-48ed-b489-abe7d0f9eda9)\
@@ -43,8 +42,7 @@
 [Berechnen von Prozentwerten](https://support.microsoft.com/en-us/office/calculate-percentages-6b5506e9-125a-4aba-a638-d6b40e603981)\
 [Subtrahieren von Zahlen in Excel](https://support.microsoft.com/en-us/office/subtract-numbers-in-excel-938b7912-5699-4609-969b-38b23ca00d54)\
 [Richtlinien und Beispiele für Arrayformeln](https://support.microsoft.com/en-us/office/guidelines-and-examples-of-array-formulas-7d94a64e-3ff3-4686-9372-ecfd5caa57c7)\
-[Schreiben einer Formel](https://support.microsoft.com/en-us/office/write-an-equation-or-formula-1d01cabc-ceb1-458d-bc70-7f9737722702)\
-
+[Schreiben einer Formel](https://support.microsoft.com/en-us/office/write-an-equation-or-formula-1d01cabc-ceb1-458d-bc70-7f9737722702)
 ## Funktionen
 [SUMME (Funktion)](https://support.microsoft.com/en-us/office/sum-function-043e1c7d-7726-4e80-8f32-07b23e057f89)\
 [MITTELWERT (Funktion)](https://support.microsoft.com/en-us/office/average-function-047bac88-d466-426c-a32b-8f33eb960cf6)\
@@ -52,8 +50,7 @@
 [MIN-Funktion](https://support.microsoft.com/en-us/office/min-function-61635d12-920f-4ce2-a70f-96f202dcc152)\
 [ANZAHL-Funktion](https://support.microsoft.com/en-us/office/count-function-a59cd7fc-b623-4d93-87a4-d23bf411294c)\
 [Excel-Funktionen (alphabetisch)](https://support.microsoft.com/en-us/office/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188)\
-[Excel-Funktionen (nach Kategorie)](https://support.microsoft.com/en-us/office/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb)\
-
+[Excel-Funktionen (nach Kategorie)](https://support.microsoft.com/en-us/office/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb)
 ## Logical
 [WENN-Funktion](https://support.microsoft.com/en-us/office/if-function-69aed7c9-4e8a-4755-a9bc-aa8bbff73be2)\
 [WENN-Funktion – Geschachtelte Formeln und das Vermeiden von Fallgruben](https://support.microsoft.com/en-us/office/if-function-nested-formulas-and-avoiding-pitfalls-0b22ff44-f149-44ba-aeb5-4ef99da241c8)\
@@ -68,8 +65,7 @@
 [UND (Funktion)](https://support.microsoft.com/en-us/office/and-function-5f19b2e8-e1df-4408-897a-ce285a19e9d9)\
 [ODER (Funktion)](https://support.microsoft.com/en-us/office/or-function-7d17ad14-8700-4281-b308-00b131e22af0)\
 [NICHT-Funktion](https://support.microsoft.com/en-us/office/not-function-9cfc6011-a054-40c7-a140-cd4ba2d87d77)\
-[Logische Funktionen (Referenz)](https://support.microsoft.com/en-us/office/logical-functions-reference-e093c192-278b-43f6-8c3a-b6ce299931f5)\
-
+[Logische Funktionen (Referenz)](https://support.microsoft.com/en-us/office/logical-functions-reference-e093c192-278b-43f6-8c3a-b6ce299931f5)
 ## Lookup
 [SVERWEIS (Funktion)](https://support.microsoft.com/en-us/office/vlookup-function-0bbc8083-26fe-4963-8ab8-93a18ad188a1)\
 [WVERWEIS-Funktion](https://support.microsoft.com/en-us/office/hlookup-function-a3034eec-b719-4ba3-bb65-e1ad662ed95f)\
@@ -80,8 +76,7 @@
 [INDIREKT-Funktion](https://support.microsoft.com/en-us/office/indirect-function-474b3a3a-8a26-4f44-b491-92b6306fa261)\
 [MTRANS (Funktion)](https://support.microsoft.com/en-us/office/transpose-function-ed039415-ed8a-4a81-93e9-4b6dfac76027)\
 [Nachschlage- und Verweisfunktionen (Referenz)](https://support.microsoft.com/en-us/office/lookup-and-reference-functions-reference-8aa21a3a-b56a-4055-8257-3ec89df2b23e)\
-[XVERWEIS (Funktion)](https://support.microsoft.com/en-us/office/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929)\
-
+[XVERWEIS (Funktion)](https://support.microsoft.com/en-us/office/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929)
 ## Datum und Uhrzeit
 [HEUTE (Funktion)](https://support.microsoft.com/en-us/office/today-function-5eb3078d-a82c-4736-8930-2f51a028fdd9)\
 [DATUM (Funktion)](https://support.microsoft.com/en-us/office/date-function-e36c0c8c-4104-49da-ab83-82328b832349)\
@@ -96,8 +91,7 @@
 [Berechnen des Unterschieds zwischen zwei Datumsangaben](https://support.microsoft.com/en-us/office/calculate-the-difference-between-two-dates-8235e7c9-b430-44ca-9425-46100a162f38)\
 [Berechnen des Unterschieds zwischen zwei Malen in Excel](https://support.microsoft.com/en-us/office/calculate-the-difference-between-two-times-in-excel-e1c78778-749b-49a3-b13e-737715505ff6)\
 [Konvertieren von Zeitangaben](https://support.microsoft.com/en-us/office/convert-times-614932f8-bf0d-4993-8e54-4612cd57334f)\
-[Datums- und Uhrzeitfunktionen (Referenz)](https://support.microsoft.com/en-us/office/date-and-time-functions-reference-fd1b5961-c1ae-4677-be58-074152f97b81)\
-
+[Datums- und Uhrzeitfunktionen (Referenz)](https://support.microsoft.com/en-us/office/date-and-time-functions-reference-fd1b5961-c1ae-4677-be58-074152f97b81)
 ## Textfunktionen
 [TEXT (Funktion)](https://support.microsoft.com/en-us/office/text-function-20d5ac4d-7b94-49fd-bb38-93d29371225c)\
 [LINKS-Funktion](https://support.microsoft.com/en-us/office/left-function-9203d2d2-7960-479b-84c6-1ea52b99640c)\
@@ -109,8 +103,7 @@
 [SUCHEN-Funktion](https://support.microsoft.com/en-us/office/search-function-9ab04538-0e55-4719-a72e-b6f54513b495)\
 [Zählen von Zeichen in Zellen in Excel](https://support.microsoft.com/en-us/office/count-characters-in-cells-in-excel-1be151d7-5b8f-4186-87b9-7b0318583163)\
 [Kombinieren von Text und Zahlen](https://support.microsoft.com/en-us/office/combine-text-and-numbers-a32c8e0e-90a2-435b-8635-5dd2209044ad)\
-[Textfunktionen (Referenz)](https://support.microsoft.com/en-us/office/text-functions-reference-cccd86ad-547d-4ea9-a065-7bb697c2a56e)\
-
+[Textfunktionen (Referenz)](https://support.microsoft.com/en-us/office/text-functions-reference-cccd86ad-547d-4ea9-a065-7bb697c2a56e)
 ## Statistik
 [MEDIAN-Funktion](https://support.microsoft.com/en-us/office/median-function-d0916313-4753-414c-8537-ce85bdd967d2)\
 [RANG (Funktion)](https://support.microsoft.com/en-us/office/rank-function-6a2fc49d-1831-4a03-9d8c-c279cf99f723)\
@@ -120,8 +113,7 @@
 [HÄUFIGKEIT (Funktion)](https://support.microsoft.com/en-us/office/frequency-function-44e3be2b-eca0-42cd-a3f7-fd9ea898fdb9)\
 [TREND (Funktion)](https://support.microsoft.com/en-us/office/trend-function-e2f135f0-8827-4096-9873-9a7cf7b51ef1)\
 [VARIATION (Funktion)](https://support.microsoft.com/en-us/office/growth-function-541a91dc-3d5e-437d-b156-21324e68b80d)\
-[Statistische Funktionen (Referenz)](https://support.microsoft.com/en-us/office/statistical-functions-reference-624dac86-a375-4435-bc25-76d659719ffd)\
-
+[Statistische Funktionen (Referenz)](https://support.microsoft.com/en-us/office/statistical-functions-reference-624dac86-a375-4435-bc25-76d659719ffd)
 ## Mathematische Funktionen
 [Eine Zahl auf die gewünschten Dezimalstellen in Excel runden](https://support.microsoft.com/en-us/office/round-a-number-to-the-decimal-places-i-want-in-excel-49b936f9-6904-425d-aa98-02ffb7f9a17b)\
 [REST-Funktion](https://support.microsoft.com/en-us/office/mod-function-9b6cd169-b6ee-406a-a97b-edf2a9dc24f3)\
@@ -131,8 +123,7 @@
 [TEILERGEBNIS (Funktion)](https://support.microsoft.com/en-us/office/subtotal-function-7b027003-f060-4ade-9040-e478765b9939)\
 [RUNDEN (Funktion)](https://support.microsoft.com/en-us/office/round-function-c018c5d8-40fb-4053-90b1-b3e7f61a213c)\
 [Auf- oder Abrunden einer Zahl](https://support.microsoft.com/en-us/office/round-a-number-f82b440b-689d-4221-b21e-38da99d33435)\
-[Mathematische und trigonometrische Funktionen (Referenz)](https://support.microsoft.com/en-us/office/math-and-trigonometry-functions-reference-ee158fd6-33be-42c9-9ae5-d635c3ae8c16)\
-
+[Mathematische und trigonometrische Funktionen (Referenz)](https://support.microsoft.com/en-us/office/math-and-trigonometry-functions-reference-ee158fd6-33be-42c9-9ae5-d635c3ae8c16)
 ## Fehler
 [Vermeiden defekter Formeln in Excel](https://support.microsoft.com/en-us/office/how-to-avoid-broken-formulas-in-excel-8309381d-33e8-42f6-b889-84ef6df1d586)\
 [Korrigieren eines Fehlerwerts vom Typ #WERT!](https://support.microsoft.com/en-us/office/how-to-correct-a-value-error-15e1b616-fbf2-4147-9c0b-0a11a20e409e)\
@@ -142,8 +133,7 @@
 [Wie wird ein #NAME korrigiert? Fehler](https://support.microsoft.com/en-us/office/how-to-correct-a-name-error-b6d54e31-a743-4d7d-9b61-40002a7b4286)\
 [Korrigieren eines Fehlerwerts vom Typ #####](https://support.microsoft.com/en-us/office/how-to-correct-a-error-bf801d0a-2a6e-44bd-a70e-0f780ae8f11e)\
 [Ausblenden von Fehlerwerten und Fehlerindikatoren in Zellen](https://support.microsoft.com/en-us/office/hide-error-values-and-error-indicators-in-cells-d171b96e-8fb4-4863-a1ba-b64557474439)\
-[Zählen der Anzahl eindeutiger Werte unter Duplikaten](https://support.microsoft.com/en-us/office/count-unique-values-among-duplicates-8d9a69b3-b867-490e-82e0-a929fbc1e273)\
-
+[Zählen der Anzahl eindeutiger Werte unter Duplikaten](https://support.microsoft.com/en-us/office/count-unique-values-among-duplicates-8d9a69b3-b867-490e-82e0-a929fbc1e273)
 ## Arbeiten mit Daten
 [Erstellen einer PivotTable zum Analysieren von Arbeitsblattdaten](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)\
 [Filtern von Daten in einem Bereich oder einer Tabelle in Excel](https://support.microsoft.com/en-us/office/filter-data-in-a-range-or-table-in-excel-01832226-31b5-4568-8806-38c37dcc180e)\
@@ -155,9 +145,8 @@
 [Importieren von Daten aus dem Web](https://support.microsoft.com/en-us/office/import-data-from-the-web-b13eed81-33fe-410d-9247-1747269c28e4)\
 [Erstellen von Power Query-Formeln in Excel](https://support.microsoft.com/en-us/office/create-power-query-formulas-in-excel-6bc50988-022b-4799-a709-f8aafdee2b2f)\
 [Suchen oder Ersetzen von Text und Zahlen in einem Arbeitsblatt](https://support.microsoft.com/en-us/office/find-or-replace-text-and-numbers-on-a-worksheet-0e304ca5-ecef-4808-b90f-fdb42f892e90)\
-[Anwenden von Datenüberprüfung auf Zellen](https://support.microsoft.com/en-us/office/apply-data-validation-to-cells-29fecbcc-d1b9-42c1-9d76-eff3ce5f7249)\
-
-## Daten Visualisieren
+[Anwenden von Datenüberprüfung auf Zellen](https://support.microsoft.com/en-us/office/apply-data-validation-to-cells-29fecbcc-d1b9-42c1-9d76-eff3ce5f7249)
+## Daten visualisieren
 [Sperren oder Entsperren von bestimmten Bereichen eines geschützten Arbeitsblatts](https://support.microsoft.com/en-us/office/lock-or-unlock-specific-areas-of-a-protected-worksheet-75481b72-db8a-4267-8c43-042a5f2cd93a)\
 [Gruppieren oder Aufheben der Gruppierung von Daten in einer PivotTable](https://support.microsoft.com/en-us/office/group-or-ungroup-data-in-a-pivottable-c9d1ddd0-6580-47d1-82bc-c84a5a340725)\
 [Erstellen eines PivotCharts](https://support.microsoft.com/en-us/office/create-a-pivotchart-c1b1e057-6990-4c38-b52b-8255538e7b1c)\
@@ -166,8 +155,7 @@
 [Kombinieren von Text aus zwei oder mehr Zellen in einer Zelle in Microsoft Excel](https://support.microsoft.com/en-us/office/combine-text-from-two-or-more-cells-into-one-cell-in-microsoft-excel-81ba0946-ce78-42ed-b3c3-21340eb164a6)\
 [Fixieren von Fensterausschnitten, um Zeilen und Spalten zu sperren](https://support.microsoft.com/en-us/office/freeze-panes-to-lock-rows-and-columns-dab2ffc9-020d-4026-8121-67dd25f2508f)\
 [Schnellstart: Sortieren von Daten in einem Excel-Arbeitsblatt](https://support.microsoft.com/en-us/office/quick-start-sort-data-in-an-excel-worksheet-60153f94-d782-47e2-96a8-15cbb7712539)\
-[Aufteilen von Daten in mehrere Spalten](https://support.microsoft.com/en-us/office/split-data-into-multiple-columns-0dec75cd-4e83-4b39-81a5-9f604be95da0)\
-
+[Aufteilen von Daten in mehrere Spalten](https://support.microsoft.com/en-us/office/split-data-into-multiple-columns-0dec75cd-4e83-4b39-81a5-9f604be95da0)
 ## Tipps und Tricks
 [Wo befinden sich meine Blattregister?](https://support.microsoft.com/en-us/office/where-are-my-worksheet-tabs-42623d50-2f9b-4583-ad9c-f1b381185e48)\
 [Korrekturen oder Problemumgehungen für aktuelle Probleme in Excel für Windows](https://support.microsoft.com/en-us/office/fixes-or-workarounds-for-recent-issues-in-excel-for-windows-49d932ce-0240-49cf-94df-1587d9d97093)\
