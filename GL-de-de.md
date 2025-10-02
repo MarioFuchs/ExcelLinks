@@ -1,4 +1,4 @@
-# excel-links-de-de
+# Excel Links (Deutsch)
 ## Getting Started
 [Was ist Excel?](https://support.microsoft.com/en-us/office/what-is-excel-94b00f50-5896-479c-b0c5-ff74603b35a3)\
 [Verwenden von Excel als Rechner](https://support.microsoft.com/en-us/office/use-excel-as-your-calculator-a1abc057-ed11-443a-a635-68216555ad0a)\
