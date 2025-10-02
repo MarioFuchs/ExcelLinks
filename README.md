@@ -1,4 +1,4 @@
-![Excel](/excel.svg)
+<img src="/excel.svg" width=200 height=200>
 # Grundlagen
 [Deutsch](GL-de-de.md)
 
