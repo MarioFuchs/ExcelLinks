@@ -1,1 +1,39 @@
 
+
+# Getting Started
+[Was ist Excel? - Microsoft-Support](https://support.microsoft.com/en-us/office/what-is-excel-94b00f50-5896-479c-b0c5-ff74603b35a3)
+
+[Verwenden von Excel als Rechner - Microsoft-Support](https://support.microsoft.com/en-us/office/use-excel-as-your-calculator-a1abc057-ed11-443a-a635-68216555ad0a)
+
+[Hinzufügen eines Wasserzeichens in Excel - Microsoft-Support](https://support.microsoft.com/en-us/office/add-a-watermark-in-excel-a372182a-d733-484e-825c-18ddf3edf009)
+[Zusammenführen und Aufheben der Verbindung von Zellen in Excel - Microsoft-Support](https://support.microsoft.com/en-us/office/merge-and-unmerge-cells-in-excel-5cbd15d5-9375-4540-907f-c673a93fcedf)
+[Einfügen oder Löschen von Zeilen und Spalten - Microsoft-Support](https://support.microsoft.com/en-us/office/insert-or-delete-rows-and-columns-6f40e6e4-85af-45e0-b39d-65dd504a3246)
+[Gleichzeitiges Bearbeiten von Excel-Arbeitsmappen mit der gemeinsamen Dokumenterstellung - Microsoft-Support](https://support.microsoft.com/en-us/office/collaborate-on-excel-workbooks-at-the-same-time-with-co-authoring-7152aa8b-b791-414c-a3bb-3024e46fb104)
+[Verschieben oder Kopieren von Arbeitsblättern oder Arbeitsblattdaten - Microsoft-Support](https://support.microsoft.com/en-us/office/move-or-copy-worksheets-or-worksheet-data-47207967-bbb2-4e95-9b5c-3c174aa69328)
+[Ein- oder Ausblenden von Zeilen oder Spalten - Microsoft-Support](https://support.microsoft.com/en-us/office/hide-or-show-rows-or-columns-659c2cad-802e-44ee-a614-dde8443579f8)
+[Auswählen von Zellinhalten in Excel - Microsoft-Support](https://support.microsoft.com/en-us/office/select-cell-contents-in-excel-23f64223-2b6b-453a-8688-248355f10fa9)
+[Einfügen oder Löschen eines Arbeitsblatts - Microsoft-Support](https://support.microsoft.com/en-us/office/insert-or-delete-a-worksheet-19d3d21e-a3b3-4e13-a422-d1f43f1faaf2)
+[Ändern des Formats einer Zelle - Microsoft-Support](https://support.microsoft.com/en-us/office/change-the-format-of-a-cell-0a45ff85-ee24-4276-94e8-aed6083e8050)
+[Erstellen und Formatieren von Tabellen - Microsoft-Support](https://support.microsoft.com/en-us/office/create-and-format-tables-e81aa349-b006-4f8a-9806-5af9df0ac664)
+[Speichern Ihrer Arbeitsmappe auf OneDrive in Excel - Microsoft-Support](https://support.microsoft.com/en-us/office/save-your-workbook-to-onedrive-in-excel-0cf0055d-49f8-464e-9dfa-8f582b32453b)
+[Kopieren der Zellformatierung - Microsoft-Support](https://support.microsoft.com/en-us/office/copy-cell-formatting-b9fe82ea-c0a0-41de-837b-d2f15dd41ea9)
+[Schritte zum Erstellen eines Diagramms - Microsoft-Support](https://support.microsoft.com/en-us/office/create-a-chart-from-start-to-finish-0baf399e-dd61-4e18-8a73-b3fd5d5680c2)
+[Verfügbare Zahlenformate in Excel - Microsoft-Support](https://support.microsoft.com/en-us/office/available-number-formats-in-excel-0afe8f52-97db-41f1-b972-4b46e9f1e8d2)
+[Anzeigen oder Ausblenden von Nullwerten - Microsoft-Support](https://support.microsoft.com/en-us/office/display-or-hide-zero-values-3ec7a433-46b8-4516-8085-a00e9e476b03)
+
+#Zusammenarbeiten
+[Freigeben einer Excel-Arbeitsmappe für andere Personen - Microsoft-Support](https://support.microsoft.com/en-us/office/share-your-excel-workbook-with-others-8d8a52bb-03c3-4933-ab6c-330aabf1e589)
+[Gleichzeitiges Bearbeiten von Excel-Arbeitsmappen mit der gemeinsamen Dokumenterstellung - Microsoft-Support](https://support.microsoft.com/en-us/office/collaborate-on-excel-workbooks-at-the-same-time-with-co-authoring-7152aa8b-b791-414c-a3bb-3024e46fb104)
+[Schützen einer Excel-Datei - Microsoft-Support](https://support.microsoft.com/en-us/office/protect-an-excel-file-7359d4ae-7213-4ac2-b058-f75e9311b599)
+[Schützen einer Arbeitsmappe - Microsoft-Support](https://support.microsoft.com/en-us/office/protect-a-workbook-7e365a4d-3e89-4616-84ca-1931257c1517)
+[Schützen eines Arbeitsblatts - Microsoft-Support](https://support.microsoft.com/en-us/office/protect-a-worksheet-3179efdb-1285-4d49-a9c3-f4ca36276de6)
+[Schützen eines Dokuments mit einem Kennwort - Microsoft-Support](https://support.microsoft.com/en-us/office/protect-a-document-with-a-password-05084cc3-300d-4c1a-8416-38d3e37d6826)
+[Drucken eines Arbeitsblatts oder einer Arbeitsmappe - Microsoft-Support](https://support.microsoft.com/en-us/office/print-a-worksheet-or-workbook-f4ad7962-b1d5-4eb9-a24f-0907f36c4b94)
+
+#Formeln
+[Berechnen des Unterschieds zwischen zwei Datumsangaben - Microsoft-Support](https://support.microsoft.com/en-us/office/calculate-the-difference-between-two-dates-8235e7c9-b430-44ca-9425-46100a162f38)
+[Formeln und Funktionen - Microsoft-Support](https://support.microsoft.com/en-us/office/formulas-and-functions-294d9486-b332-48ed-b489-abe7d0f9eda9)
+[Übersicht über Formeln in Excel - Microsoft-Support](https://support.microsoft.com/en-us/office/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173)
+[Definieren und Verwenden von Namen in Formeln - Microsoft-Support](https://support.microsoft.com/en-us/office/define-and-use-names-in-formulas-4d0f13ac-53b7-422e-afd2-abd7ff379c64)
+[Erstellen einer einfachen Formel in Excel - Microsoft-Support](https://support.microsoft.com/en-us/office/create-a-simple-formula-in-excel-11a5f0e5-38a3-4115-85bc-f4a465f64a8a)
+[Ein- oder Ausblenden von Formeln - Microsoft-Support](https://support.microsoft.com/en-us/office/display-or-hide-formulas-f7f5ab4e-bf24-4efc-8fc9-0c1b77a5356f)
