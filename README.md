@@ -1,15 +1,15 @@
 <img src="/excel.svg" width=200 height=200>
 
 # Grundlagen
-[Deutsch](GL-de-de.md)
+[Deutsch](Excel-GL-de-de.md)
 
-[Italiano](GL-it-it.md)
+[Italiano](Excel-GL-it-it.md)
 
-[English](GL-en-us.md)
+[English](Excel-GL-en-us.md)
 
 # Vertiefung
-[Deutsch](VT-de-de.md)
+[Deutsch](Excel-VT-de-de.md)
 
-[Italiano](VT-it-it.md)
+[Italiano](Excel-VT-it-it.md)
 
-[English](VT-en-us.md)
+[English](Excel-VT-en-us.md)
