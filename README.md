@@ -1,5 +1,5 @@
+# Getting Started
 
-#Getting Started
 [Was ist Excel? - Microsoft-Support](https://support.microsoft.com/en-us/office/what-is-excel-94b00f50-5896-479c-b0c5-ff74603b35a3)
 [Verwenden von Excel als Rechner - Microsoft-Support](https://support.microsoft.com/en-us/office/use-excel-as-your-calculator-a1abc057-ed11-443a-a635-68216555ad0a)
 [Hinzufügen eines Wasserzeichens in Excel - Microsoft-Support](https://support.microsoft.com/en-us/office/add-a-watermark-in-excel-a372182a-d733-484e-825c-18ddf3edf009)
