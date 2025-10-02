@@ -1,4 +1,4 @@
-!(excel.svg)
+![Excel](/excel.svg)
 # Grundlagen
 [Deutsch](GL-de-de.md)
 
