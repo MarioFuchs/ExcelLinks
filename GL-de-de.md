@@ -17,7 +17,6 @@
 [Schritte zum Erstellen eines Diagramms](https://support.microsoft.com/en-us/office/create-a-chart-from-start-to-finish-0baf399e-dd61-4e18-8a73-b3fd5d5680c2)\
 [Verfügbare Zahlenformate in Excel](https://support.microsoft.com/en-us/office/available-number-formats-in-excel-0afe8f52-97db-41f1-b972-4b46e9f1e8d2)\
 [Anzeigen oder Ausblenden von Nullwerten](https://support.microsoft.com/en-us/office/display-or-hide-zero-values-3ec7a433-46b8-4516-8085-a00e9e476b03)\
-
 ## Zusammenarbeiten
 [Freigeben einer Excel-Arbeitsmappe für andere Personen](https://support.microsoft.com/en-us/office/share-your-excel-workbook-with-others-8d8a52bb-03c3-4933-ab6c-330aabf1e589)\
 [Gleichzeitiges Bearbeiten von Excel-Arbeitsmappen mit der gemeinsamen Dokumenterstellung](https://support.microsoft.com/en-us/office/collaborate-on-excel-workbooks-at-the-same-time-with-co-authoring-7152aa8b-b791-414c-a3bb-3024e46fb104)\
