@@ -3,11 +3,11 @@
 
 [Italiano](GL-it-it.md)
 
-[English](GL-en-ud.md)
+[English](GL-en-us.md)
 
 # Vertiefung
-[Deutsch](GL-de-de.md)
+[Deutsch](VT-de-de.md)
 
-[Italiano](GL-it-it.md)
+[Italiano](VT-it-it.md)
 
-[English](GL-en-ud.md)
+[English](VT-en-us.md)
