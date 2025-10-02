@@ -1,3 +1,4 @@
+!(excel.svg)
 # Grundlagen
 [Deutsch](GL-de-de.md)
 
